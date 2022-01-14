@@ -1,1 +1,2 @@
 Howdy Y'all
+Testing git commit text editor, don't mind me.
